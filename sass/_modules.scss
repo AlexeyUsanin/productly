@@ -91,20 +91,6 @@ img {
   height: auto;
 }
 
-.hero {
-  &__content {
-    display: flex;
-    align-items: center;
-    margin-top: 60px;
-    gap: 60px;
-    flex-wrap: wrap;
-  }
-
-  &__descr {
-    flex: 1;
-  }
-}
-
 .btn-menu {
   height: 48px;
   width: 48px;

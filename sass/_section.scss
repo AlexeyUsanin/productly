@@ -1,0 +1,13 @@
+.hero {
+  &__content {
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    gap: 60px;
+    flex-wrap: wrap;
+  }
+
+  &__descr {
+    flex: 1;
+  }
+}
