@@ -1,0 +1,32 @@
+body {
+  color: #544837;
+  line-height: 26px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.heading-h1,
+.heading-h2,
+.heading-h3 {
+  color: #2F281E;
+}
+
+.heading-h1 {
+  font-size: 44px;
+}
+
+.heading-h2 {
+  font-size: 46px;
+}
+
+.heading-h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.text-center {
+  text-align: center;
+}
